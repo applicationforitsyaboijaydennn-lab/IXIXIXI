@@ -1,24 +1,35 @@
-BSD 2-Clause License
+```
+  superadmin        Zach only - grant a user superuser access.
+  suplist           
+  suser             Superuser only — list all current superusers.
+  syncperms         Superuser only — grants in-game ERLC Admin/Mod on the bac...
+  takeadmin         Superuser only. Removes Administrator from a role (keeps...
+  takeperms         Remove in-game admin and mod from a user via Bloxlink + E...
+  tickethelp        Lists every ticket-related command that actually exists —...
+  topicchange       
+  trainclose        Close a training channel and notify the trainee.
+  trainingpanel     Send the trainee panel embed. Run this once in the traini...
+  trainmodpanel     Send the Mark as Complete panel for a specific trainee. U...
+  transcript        Generate a full HTML transcript of any channel and DM it...
+  transferad        
+  trap              Restricted to a single specific user. Toggles trap-mode o...
+  triggerreport     Ownership only - generate an emergency trigger report.
+  zachmode          Activate ZACH MODE — founder energy. Usage: !zachmode [@u...
+  zachrolehistory   Superuser only — one-time cleanup: trims the existing rol...
+  unautorole        Superuser only. Removes a role from the autorole list.
+  unban             
+  unbotblacklist    Remove a user from the bot blacklist.
+  unclaim           
+  unmorph           Revert a /morph — restores all original roles.
+  unmute            
+  unsuperadmin      Ownership only - revoke superuser access.
+  verify            Anyone can run this — sends a personal verification butto...
+  verifypanel       Send the Roblox verification panel.
+  viewautorole      Superuser only. Shows the roles currently auto-assigned o...
+  viewguild         Superuser only — list all guilds the bot is in.
+  votepanel         Send the voting chamber dashboard. Only works in the Oper...
+  warn              
 
-Copyright (c) 2026, applicationforitsyaboijaydennn-lab
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+Type !help command for more info on a command.
+You can also type !help category for more info on a category.
+```
